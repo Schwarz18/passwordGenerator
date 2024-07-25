@@ -1,7 +1,3 @@
-Sure, here's the updated README file including the image and without the code explanation:
-
----
-
 # Password Generator
 
 This project is a simple and effective password generator that allows users to create secure passwords with customizable options. The generator includes features such as specifying password length and including uppercase letters, lowercase letters, numbers, and symbols.
