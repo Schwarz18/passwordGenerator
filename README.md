@@ -65,7 +65,8 @@ To run this project locally, you need a modern web browser.
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
+## Contact
+
+For any questions or support, please contact [sudeephm774@gmail.com](mailto:sudeephm774@gmail.com).
+
 ---
-
-Feel free to customize any section to better suit your needs!
-
