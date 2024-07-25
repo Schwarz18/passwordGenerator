@@ -16,7 +16,7 @@ This project is a simple and effective password generator that allows users to c
 
 ## Demo
 
-Try the live demo: [Password Generator](https://schwarz18.github.io/passwordGenerator)
+Try the live demo: [Password Generator]([https://schwarz18.github.io/passwordGenerator](https://password-generator-web.s3.ap-south-1.amazonaws.com/index.html))
 
 ## Features
 
