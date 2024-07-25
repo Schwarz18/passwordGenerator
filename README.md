@@ -12,11 +12,10 @@ This project is a simple and effective password generator that allows users to c
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
-Try the live demo: [Password Generator]([https://schwarz18.github.io/passwordGenerator](https://password-generator-web.s3.ap-south-1.amazonaws.com/index.html))
+Try the live demo: [Password Generator](https://password-generator-web.s3.ap-south-1.amazonaws.com/index.html)
 
 ## Features
 
@@ -66,10 +65,7 @@ To run this project locally, you need a modern web browser.
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 Feel free to customize any section to better suit your needs!
+
